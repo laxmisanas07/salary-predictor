@@ -21,4 +21,4 @@ python predict_salary.py
 
 ## 👨‍💻 Author
 
-**Laxmi Sanas**
+**Ms.Laxmi Sanas**
