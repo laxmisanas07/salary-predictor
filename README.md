@@ -1,12 +1,24 @@
-# Salary Predictor 🤖
-AI model jo experience + age se salary predict karta hai!
+# 🤖 Salary Predictor
 
-## Tech Stack
-- Pandas, Scikit-learn, Linear Regression
+A Machine Learning project that predicts salary based on **experience** and **age** using **Linear Regression**.
 
-## Live Demo
-4 saal exp, 25 age → ₹42,000 salary!
+## 🚀 Tech Stack
+- Python
+- Pandas
+- Scikit-learn
+- Linear Regression
 
-## Run karo
+## ▶️ Run
+
+```bash
 pip install pandas scikit-learn
 python predict_salary.py
+```
+
+## 📷 Output
+
+![Output](CODE.png)
+
+## 👨‍💻 Author
+
+**Laxmi Sanas**
